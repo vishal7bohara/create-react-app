@@ -24,6 +24,10 @@
   color: white;
 }
 
+.Name {
+  font-size: 5rem;
+}
+
 .App-link {
   color: #61dafb;
 }
